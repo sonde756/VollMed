@@ -1,7 +1,7 @@
 package com.vollmed.vollmed.services.validation;
 
 
-import com.vollmed.vollmed.ValidacaoException;
+import com.vollmed.vollmed.exception.ValidacaoException;
 import com.vollmed.vollmed.dto.consulta.DadosAgendamentoConsultaDTO;
 import org.springframework.stereotype.Component;
 

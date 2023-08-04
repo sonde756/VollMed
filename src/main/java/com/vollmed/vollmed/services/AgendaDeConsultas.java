@@ -1,6 +1,6 @@
 package com.vollmed.vollmed.services;
 
-import com.vollmed.vollmed.ValidacaoException;
+import com.vollmed.vollmed.exception.ValidacaoException;
 import com.vollmed.vollmed.dto.consulta.DadosAgendamentoConsultaDTO;
 import com.vollmed.vollmed.dto.consulta.DadosCancelamentoConsultaDTO;
 import com.vollmed.vollmed.dto.consulta.DadosDetalhamentoConsultaDTO;

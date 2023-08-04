@@ -1,6 +1,6 @@
 package com.vollmed.vollmed.services.validation.cancelamento;
 
-import com.vollmed.vollmed.ValidacaoException;
+import com.vollmed.vollmed.exception.ValidacaoException;
 import com.vollmed.vollmed.dto.consulta.DadosCancelamentoConsultaDTO;
 import com.vollmed.vollmed.repository.ConsultaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
